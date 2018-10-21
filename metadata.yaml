@@ -1,5 +1,5 @@
 _repo: Antony-and-Cleopatra_1796
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'Egypt -- History -- 332-30 B.C. -- Drama'
 - !lcsh 'Generals -- Rome -- Drama'
 - !lcsh 'Romans -- Egypt -- Drama'
+- GITenberg
 title: Antony and Cleopatra
 url: http://www.gutenberg.org/ebooks/1796
